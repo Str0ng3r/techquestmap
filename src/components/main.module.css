@@ -1,0 +1,13 @@
+.cont {
+    margin: 0 auto;
+    display: flex;
+    max-width: 1340px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.map {
+    display: flex;
+    width: 800px;
+    height: 800px;
+}
